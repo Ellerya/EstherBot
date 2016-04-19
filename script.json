@@ -1,8 +1,11 @@
 {
-    "HELLO": "Hey there stranger! How can i help you",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
-    "HEY": "what do you want punk?", 
+    "HELLO": "Hey there stranger! if I'm replying indouble ask me 'WHY DOUBLE', if not type 'JOKE' or 'USELESS SUPERPOWER' or 'MORE' ",
+    "JOKE": "Not only is my thesaurus terrible, but it's also terrible",
+    "USELESS SUPERPOWER": "The ability to grow a finger out of your belly button.. once",
+    "MORE": "ask me for my 2015/16 fav: 'YOUTUBE VIDEO' or 'GIF'?", 
+    "YOUTUBE VIDEO": "https://www.youtube.com/watch?v=8FFQ_g8OoQM",
+    "GIF": "http://imgur.com/gallery/SK3U7",
+    "WHY DOUBLE": "https://www.youtube.com/watch?v=AW3RspM7v9M",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
